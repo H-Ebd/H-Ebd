@@ -1,7 +1,7 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/J2157.png" alt="Your Image Badge" />
+![TryHackMe Badge]<img src="https://tryhackme-badges.s3.amazonaws.com/J2157.png" alt="Your Image Badge" />
 
 <!--
-**H-Ebd/H-Ebd** is a ✨ _special_ ✨ repository because its `README.md` (this fille) appears on your GitHub profile.
+**H-Ebd/H-Ebd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
