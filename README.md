@@ -1,5 +1,5 @@
 ## TryHackMe Badge
-![TryHackMe Badge](https://raw.githubusercontent.com/H-Ebd/H-Ebd/main/assets/thm_badge.png)
+[![TryHackMe Badge](https://raw.githubusercontent.com/H-Ebd/H-Ebd/main/assets/thm_badge.png)](https://tryhackme.com/p/J2157)
 
 <!--
 **H-Ebd/H-Ebd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
