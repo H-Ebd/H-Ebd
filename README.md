@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://tryhackme-badges.s3.amazonaws.com/J2157.png" alt="Your Image Badge" />
 
 <!--
 **H-Ebd/H-Ebd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
