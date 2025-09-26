@@ -13,19 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      # --- steps for cache-busting start here ---
-      - name: Get current timestamp
-        id: time
-        run: echo "timestamp=$(date +'%Y%m%d%H%M%S')" >> $GITHUB_OUTPUT
-
-      - name: Update README with cache-busting parameter
-        run: |
-          # Use sed to find and replace the image URL in the README.md file
-          # This adds a query string (?ts=TIMESTAMP) to the image source
-          sed -i "s|https://raw.githubusercontent.com/H-Ebd/H-Ebd/main/assets/thm_badge.png|https://raw.githubusercontent.com/H-Ebd/H-Ebd/main/assets/thm_badge.png?ts=${{ steps.time.outputs.timestamp }}|g" README.md
-      # --- steps for cache-busting end here ---
-
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "J2157"
